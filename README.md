@@ -159,7 +159,7 @@ When something is detected: **save to flash → turn on alarm**. The alarm stays
 
 ## 5. Wiring
 
-![Circuit connections](/wiring_diagram.svg)
+![Circuit connections](wiring_diagram.svg)
 
 ### Pin table
 
